@@ -1,0 +1,4 @@
+n=int(input("Enter the numbers"))
+for i range(1,16):
+   print(n,"*",i,"=",n*i)
+   
